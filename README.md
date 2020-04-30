@@ -8,7 +8,7 @@ Switch Keyboard Layout beetween us and de.
 
 Bind to Keyboard Shortcut to easy get access of special Characters like 'öäüß'
 
-## [DWatcher][https://github.com/rekxs/scripts/tree/master/DWatcher]
+## [DWatcher](https://github.com/rekxs/scripts/tree/master/DWatcher)
 
 Started out as Moving Script. 
 
@@ -20,7 +20,7 @@ Does not wait until bigger Files are fully Copied.
 
 TODO: Implement Watchmode Correctly - to only move Fully Saved/Copied Files.
 
-## [ExifSort][https://github.com/rekxs/scripts/tree/master/ExifSort]
+## [ExifSort](https://github.com/rekxs/scripts/tree/master/ExifSort)
 
 Contains Some Sorting Scripts. 
 
